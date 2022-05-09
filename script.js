@@ -100,7 +100,7 @@ class Rectangle extends Shape {
         } else {
             console.log(width);
             let max = 600 - (0.5 * width);
-            let min = 0 + height;
+            let min = 0 + width;
             this.div.css({
                 height: this.height,
                 width: this.width,
