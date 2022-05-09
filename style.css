@@ -1,0 +1,33 @@
+#form {
+background-color: rgba(62, 162, 255, 0.466);
+}
+
+ #sketchArea {
+    position: relative;
+} 
+
+#sideBar {
+    background-color: rgba(47, 192, 78, 0.342);
+}
+
+.square {
+    /* height: 100px;
+    width: 100px; */
+    background: red;
+}
+
+.circle {
+    background-color: purple;
+    border-radius: 50%;
+}
+
+.rectangle {
+    background-color: green;
+}
+
+.triangle {
+    height: 0px;
+    width: 0px;
+    border-bottom: 100px solid yellow;
+    border-right: 100px solid transparent;
+  }
